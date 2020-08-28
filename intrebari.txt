@@ -1,0 +1,4 @@
+Intrebari:
+Care era scopul lui "static"?(ex: public static void)
+Nu exista ceva asemanator randdom.range in lol de Math.random()?
+Prin Math.ceva de calculeaza si functii trigonometrice?
